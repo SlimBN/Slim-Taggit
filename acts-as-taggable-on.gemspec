@@ -5,7 +5,7 @@ require 'acts_as_taggable_on/version'
 
 
 Gem::Specification.new do |gem|
-  gem.name          = "Slim-Taggit"
+  gem.name          = "acts-as-taggable-on"
   gem.version       = ActsAsTaggableOn::VERSION
   gem.authors       = ["Michael Bleigh", "Joost Baaij"]
   gem.email         = ["michael@intridea.com", "joost@spacebabies.nl"]
